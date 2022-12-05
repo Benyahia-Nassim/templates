@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf8" />
+  <title>CV de Camille</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+  <body>
+  <nav class="secondary-block">
+  <h2>Camille MARTIN</h2>
+  <ul>
+    <li><a href="#profile">Profile</a></li>
+    <li><a href="#xp">Expériences</a></li>
+    <li><a href="#education">Formations</a></li>
+  </ul>
+</nav>
+  </body>
+</html>

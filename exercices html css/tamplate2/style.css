@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+h3 {
+  text-align: center;
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: red;
+}
+
+img {
+  align: center;
+  size: 500px;
+}/*# sourceMappingURL=style.css.map */
